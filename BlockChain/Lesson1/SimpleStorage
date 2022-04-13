@@ -1,6 +1,7 @@
 //https://remix.ethereum.org/?#optimize=false&runs=200&evmVersion=null&version=soljson-v0.6.12+commit.27d51765.js
-// SPDX-License-Identifier: MIT
 //SimpleStorage.sol
+
+// SPDX-License-Identifier: MIT
 
 pragma solidity ^0.6.0;
 
